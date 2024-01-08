@@ -1,0 +1,54 @@
+extern func print_int (int) void;
+extern func print_string (string) void;
+extern func read_int () int;
+
+package foo{
+  var y int =7;
+  var Z int ;
+  var A[100] int ;
+  var x bool = true;
+
+  func fib ( n int) int
+  {
+
+    if ( n <= 0) {return (0) ;}
+    if ( n == 1) {return (1) ;}
+    return( fib(n-1) + fib(n-2));
+
+  } // end fib
+
+  func main () int 
+  {
+    var x int;
+    x = 0;
+    print_string("\nPlease enter a number: ");
+    y = read_int();
+    while (x < y)
+    { 
+      print_int(x);
+      print_string(" : " );
+      print_int(fib(x));
+      print_string("\n");
+      x = x + 1;
+
+    } // of while
+    while(x != 0){
+      print_string("\n\nPlease enter a number (0 to exit): ");
+      x = read_int();
+      y = x * x;
+      print_string("\n");
+      
+      if(x == 0){
+        print_string("Done with the squares!\n\n");
+        break;
+      }
+      print_int(x);
+      print_string(" squared is ");
+      print_int(y);
+      continue;
+    } // end while
+
+
+  } // end main
+} // end foo
+

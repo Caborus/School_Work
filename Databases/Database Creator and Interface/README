@@ -1,0 +1,9 @@
+// Alexander Cabos
+// CS482
+// Project Phase 3
+
+In Terminal (or your preferred method for running python scripts)
+1) If needed, create database by running 'create_db_cabos.py' 
+2) Run 'phase3_cabos.py' 
+3) Follow the prompts
+4) Type '0' to exit program

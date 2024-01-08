@@ -1,0 +1,41 @@
+User statistics, generated on 2022-10-21 16:03:03.560111
+------
+User: Jonathan Cook    commits:1        pullrequests:0        othermerges:0       
+   filetype:.txt       added:33         removed:0
+------
+User: Said Ajo-Montano commits:17       pullrequests:0        othermerges:3       
+   filetype:.java      added:398        removed:207
+   filetype:.uxf       added:645        removed:0
+   binfile:.PNG        number:1
+   binfile:.pdf        number:1
+   binfile:.png        number:1
+   binfile:.jpg        number:1
+------
+User: Caborus          commits:16       pullrequests:0        othermerges:0       
+   filetype:.java      added:317        removed:19
+   binfile:.png        number:23
+------
+User: Deric Shaffer    commits:2        pullrequests:0        othermerges:0       
+   filetype:.java      added:59         removed:2
+------
+========Wiki user stats========
+User statistics, generated on 2022-10-21 16:03:03.581060
+------
+User: Likhitha Devineni commits:3        pullrequests:0        othermerges:0       
+   filetype:.md        added:14         removed:3
+------
+User: atrujillo2022    commits:1        pullrequests:0        othermerges:0       
+   filetype:.md        added:1          removed:0
+------
+User: Caborus          commits:2        pullrequests:0        othermerges:0       
+   filetype:.md        added:66         removed:16
+------
+User: mxbanka          commits:32       pullrequests:0        othermerges:0       
+   filetype:.md        added:246        removed:51
+------
+User: Deric Shaffer    commits:1        pullrequests:0        othermerges:0       
+   filetype:.md        added:3          removed:1
+------
+User: Said Ajo-Montano commits:16       pullrequests:0        othermerges:0       
+   filetype:.md        added:232        removed:132
+------
